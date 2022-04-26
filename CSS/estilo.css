@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+
+#container{
+    margin: 0 auto;
+    width: 1200px;
+    height: 800px;
+}
+#banner{
+    margin-left: 0px;
+    width: 1200px;
+    height: 178px;
+    margin: 0 auto;
+    background: #000;
+    color: #fff;
+}
+#texto{
+    width: 400px;
+    height: 600px;
+    margin-top: -600px;
+    margin-left: 150px;
+    background: bisque;
+    text-align:justify;
+}
+#link{
+    width: 150px;
+    height: 600px;
+    margin-top: 0px;
+    margin-left: 0px;
+    background: rgba(95, 67, 5, 0.692);
+}
+#video1{
+    width: 320px;
+    height: 300px;
+    margin-top: -600px;
+    margin-left: 550px;
+    background: rgb(16, 167, 24);
+    text-align:justify;
+}
+#video2{
+    width: 320px;
+    height: 300px;
+    margin-top: 0px;
+    margin-left: 550px;
+    background: rgb(80, 18, 180);
+    text-align:justify;
+}
+#video3{
+    width: 330px;
+    height: 300px;
+    margin-top: -300px;
+    margin-left: 870px;
+    background: rgb(192, 41, 104);
+    text-align:justify;
+}
+#video4{
+    width: 330px;
+    height: 300px;
+    margin-top: -600px;
+    margin-left: 870px;
+    background: rgb(17, 209, 216);
+    text-align:justify;
+}
+#rodape{
+    width: 1200px;
+    height: 150px;
+    margin-top: 300px;
+    margin-left: 0px;
+    background: rgb(85, 69, 19);
+    text-align:justify;
+}
+#footer{
+    margin-top: -80px;
+    margin-left: 300px;
+    width: 50%;
+    height: 20px;
+    margin: 0 auto 200;
+    text-align: center;
+    border: solid;
+    color: red;
+}
+#imgcapa{
+    width: 100%;
+    height: 178px;
+}
